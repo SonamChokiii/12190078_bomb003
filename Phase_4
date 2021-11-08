@@ -1,6 +1,6 @@
 (gdb) b phase_4
 Breakpoint 1 at 0x400ffa
-(gdb) r answer.txt
+(gdb) r answers.txt
 The program being debugged has been started already.
 Start it from the beginning? (y or n) y
 Starting program: /home/lab2/Desktop/12190047/CS1/Assignment 1/bomb003/bomb answer.txt
